@@ -1,9 +1,6 @@
 # Piano-with-js
 Piano With Pure #javascript ✨ This #stopwatch Created by #vanilajavascript 🔥
 
-You can see the code on Github 👇 
-https://github.com/SepehrGhasemii/Iphone-stopWatch
-〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 Website 👇 
 http://sepehrghasemi.com
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
